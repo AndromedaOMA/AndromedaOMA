@@ -1,4 +1,7 @@
-![MasterHead](https://www.canva.com/design/DAFaE56I7_g/ltNOzXWx7ly5aT-MnltAvw/watch?utm_content=DAFaE56I7_g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/116078879/217859308-91cf550b-f186-45d3-adcc-52c72b617ea6.gif" alt="animated" />
+</p>
 <h1 align="center">Hi 👋, I'm Olaru Marius-Alexandru</h1>
 <h3 align="center">A passionate software developer from România.</h3>
 <img align="right" alt="Coding" width="400" src="https://whatifgaming.com/wp-content/uploads/2022/03/Open-A-New-Window.gif">
