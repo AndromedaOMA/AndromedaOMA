@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olaru Marius-Alexandru</h1>
-<h3 align="center">A passionate software developer from România</h3>
+<h3 align="center">I am open-minded, willing to learn as many new things as possible and to work with those around me.</h3>
 <img align="right" alt="Coding" width="400" src="https://whatifgaming.com/wp-content/uploads/2022/03/Open-A-New-Window.gif">
 
 
