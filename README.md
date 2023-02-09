@@ -1,3 +1,4 @@
+![MasterHead](https://www.canva.com/design/DAFaE56I7_g/ltNOzXWx7ly5aT-MnltAvw/watch?utm_content=DAFaE56I7_g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 <h1 align="center">Hi 👋, I'm Olaru Marius-Alexandru</h1>
 <h3 align="center">A passionate software developer from România.</h3>
 <img align="right" alt="Coding" width="400" src="https://whatifgaming.com/wp-content/uploads/2022/03/Open-A-New-Window.gif">
@@ -25,7 +26,7 @@
 <a href="https://fb.com/profile.php?id=100010019945137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marius alexandru olaru" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andromedaoma&show_icons=true&locale=en&layout=compact" alt="andromedaoma" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andromedaoma&show_icons=true&locale=en&layout=compact" alt="andromedaoma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andromedaoma&show_icons=true&locale=en" alt="andromedaoma" /></p>
 
