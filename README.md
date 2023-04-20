@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Olaru Marius-Alexandru</h1>
-<h3 align="center">A passionate software developer from România.</h3>
+<h3 align="center">A passionate software developer from Romania.</h3>
 
 # 💻 Tech Stack:
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
