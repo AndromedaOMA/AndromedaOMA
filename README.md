@@ -10,7 +10,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    <h5>Experienced:</h5>
+    <h4>Experienced:</h4>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a>
@@ -26,7 +26,7 @@
   </div>
 
   <div>
-    <h5>Skillful:</h5>
+    <h4>Skillful:</h4>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
       <img src="https://www.rust-lang.org/logos/rust-logo-128x128-blk.png" alt="Rust" width="40" height="40"/>
     </a>
