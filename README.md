@@ -13,7 +13,15 @@
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a> 
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+    <img src="https://www.rust-lang.org/logos/rust-logo-128x128-blk.png" alt="Rust" width="40" height="40"/>
+  </a>
   
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
