@@ -8,9 +8,9 @@
 
 # 💻 Tech Stack:
 
-<div style="display: flex; flex-wrap: nowrap; justify-content: space-between; align-items: flex-start;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    <h2>Experienced:</h2>
+    <h5>Experienced:</h5>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a>
@@ -26,7 +26,7 @@
   </div>
 
   <div>
-    <h2>Skillful:</h2>
+    <h5>Skillful:</h5>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
       <img src="https://www.rust-lang.org/logos/rust-logo-128x128-blk.png" alt="Rust" width="40" height="40"/>
     </a>
@@ -39,7 +39,7 @@
   </div>
 
   <div>
-    <h2>Beginner:</h2>
+    <h4>Beginner:</h4>
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     </a>
@@ -52,9 +52,6 @@
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
     </a>
-  </div>
-
-  <div>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
     </a>
@@ -69,10 +66,10 @@
 
 
 # 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndromedaOMA&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=AndromedaOMA&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AndromedaOMA&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndromedaOMA&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/marius-alexandru-olaru-390599229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marius-alexandru olaru" height="30" width="40" /></a>
