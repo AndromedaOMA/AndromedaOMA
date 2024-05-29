@@ -64,13 +64,6 @@
   </div>
 </div>
 
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=andromedaOMA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andromedaOMA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 ## 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/marius-alexandru-olaru-390599229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marius-alexandru olaru" height="30" width="40" /></a>
