@@ -5,6 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Olaru Marius-Alexandru</h1>
 <h3 align="center">A passionate software developer from Romania.</h3>
+<h4 align="center"> I am interested in understanding the concepts of Machine Learning and Neural Networks.</h4>
 
 # 💻 Tech Stack:
 
@@ -49,4 +50,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/marius-alexandru-olaru-390599229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marius-alexandru olaru" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100010019945137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marius alexandru olaru" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mariusalexandruolaru" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="marius alexandru olaru" height="30" width="40" /></a>
 </p>
