@@ -17,7 +17,7 @@
 
   <div>
 <!--     <h4>Skillful:</h4> -->
-    <a href="https://www.pytorch.org/" target="_blank" rel="noreferrer">
+    <a href="https://www.pytorch.org" target="_blank" rel="noreferrer">
       <img src="https://pytorch.org/assets/images/logo-icon.svg" alt="PyTorch" width="40" height="40"/>
     </a>
     <a href="https://www.numpy.org" target="_blank" rel="noreferrer">
