@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Olaru Marius-Alexandru</h1>
 <h3 align="center">A passionate software developer from Romania.</h3>
-<h4 align="center"> I am interested in understanding the concepts of Machine Learning and Neural Networks.</h4>
+<h4 align="center"> I am interested in understanding the concepts of Deep Learning and Machine Learning.</h4>
 
 # 💻 Tech Stack:
 
