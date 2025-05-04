@@ -26,6 +26,9 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/>
     </a>
+    <a href="https://spark.apache.org" target="_blank" rel="noreferrer">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYjJum800-sDfZz-8yznUui_7lUYzeoFOcg&s" alt="Python" width="40" height="40"/>
+    </a>
   </div>
     
   <div>
