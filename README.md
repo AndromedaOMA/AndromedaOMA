@@ -18,7 +18,7 @@
   <div>
 <!--     <h4>Skillful:</h4> -->
     <a href="https://www.pytorch.org" target="_blank" rel="noreferrer">
-      <img src="https://pytorch.org/assets/images/logo-icon.svg" alt="PyTorch" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
     </a>
     <a href="https://www.numpy.org" target="_blank" rel="noreferrer">
       <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40"/>
